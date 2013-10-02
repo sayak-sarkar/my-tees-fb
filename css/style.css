@@ -12,18 +12,13 @@
 }
 
 #container {
-	/*width: 282px;*/
 	width: 200px;
 	height: 200px;
 	padding: 5px;
-	/*margin: 15px;*/
-	/*background-color: #000000;*/
-	/*box-shadow:2px 0px 10px #333333;*/
 	margin-bottom: 20px;
 	float: left;
 }
 #thumbnail {
-	/*width: 282px;*/
 	width: 200px;
 	height: 200px;
 	margin: 15px;
@@ -35,7 +30,6 @@
 	font-family: "Comic Sans MS", cursive;
 	font-size: 12px;
 	word-wrap: break-word;
-	/*color:#FFFFFF;*/
 }
 .clear {
 	clear: both;
